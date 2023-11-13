@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mydropboxapp-dev-195534-authRole",
+      "UnauthRoleArn": "arn:aws:iam::191002363238:role/amplify-mydropboxapp-dev-195534-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::191002363238:role/amplify-mydropboxapp-dev-195534-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mydropboxapp-dev-195534-deployment",
+      "UnauthRoleName": "amplify-mydropboxapp-dev-195534-unauthRole",
+      "StackName": "amplify-mydropboxapp-dev-195534",
+      "StackId": "arn:aws:cloudformation:us-east-1:191002363238:stack/amplify-mydropboxapp-dev-195534/ed447a10-80c3-11ee-83f5-0a1ee5b71039",
+      "AmplifyAppId": "d3a9qo0zwbl4s"
+    },
+    "categories": {
+      "auth": {
+        "mydropboxapp22db90ed": {}
+      }
+    }
+  }
+}

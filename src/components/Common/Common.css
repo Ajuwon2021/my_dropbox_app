@@ -1,0 +1,60 @@
+/* NavBar Settings*/
+.brand_info img {
+    margin-right: 10px;
+}
+
+.navlk, .brand_info span {
+    color: #2660F6 !important;
+    font-weight: 700 !important;
+}
+
+.navlk:hover, .brand_info span:hover {
+    color: #222279 !important;
+}
+
+.navlk.active {
+  color: red;
+}
+
+/* FootBar settings */
+.main_foot {
+    background-color: rgb(34, 34, 121);
+    color: #ffffff;
+    line-height: 0.7;
+}
+
+.main_foot a {
+    color: #ffffff;
+    text-align: center;
+}
+.foot {
+    background-color: transparent;
+    max-height: fit-content;
+    margin-left: 40px;
+}
+
+.foot-img {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.foot-copy {
+    text-align: center;
+    font-size: smaller;
+    padding-bottom: 1px;
+    padding-top: 2px;
+    background-color: rgba(0, 126, 230, 25%);
+}
+
+.foot-copy p {
+    margin-top: 20px;
+
+}
+
+.foot-copy a {
+    text-decoration: none;
+}
+
+.foot-copy a:hover {
+    color: #222279;
+}
