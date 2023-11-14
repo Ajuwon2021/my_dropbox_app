@@ -14,6 +14,15 @@
     "categories": {
       "auth": {
         "mydropboxapp22db90ed": {}
+      },
+      "function": {
+        "S3Triggerb18cd2ed": {
+          "deploymentBucketName": "amplify-mydropboxapp-dev-195534-deployment",
+          "s3Key": "amplify-builds/S3Triggerb18cd2ed-594d34524b6646616132-build.zip"
+        }
+      },
+      "storage": {
+        "dropboxstorage": {}
       }
     }
   }

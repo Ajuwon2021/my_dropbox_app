@@ -1,0 +1,14 @@
+{
+  "resourceName": "dropboxstorage",
+  "policyUUID": "b9b5a934",
+  "bucketName": "dropboxstorage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggerb18cd2ed",
+  "groupAccess": {}
+}
